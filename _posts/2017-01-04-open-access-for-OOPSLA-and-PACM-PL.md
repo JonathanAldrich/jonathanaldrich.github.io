@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Open Access for OOPSLA and PACM PL
 tags: community
 ---
