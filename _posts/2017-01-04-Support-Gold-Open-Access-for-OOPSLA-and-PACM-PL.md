@@ -1,15 +1,15 @@
 ---
-title: Open Access for OOPSLA and PACM PL
+title: Support Gold Open Access for OOPSLA and PACM PL!
 tags: community
 layout: default
 ---
 
-Support Open Access for OOPSLA and PACM PL
-==========================================
+Support Gold Open Access for OOPSLA and PACM PL!
+================================================
 
-SIGPLAN is currently considering making PACM PL--and thus OOPSLA--a (Gold) Open Access publication.  Please [weigh in](https://docs.google.com/forms/d/e/1FAIpQLScHHPd4yQoUTzz48ogVnRGL4AIUPPxXWgz4_c2nXwzGrisgyg/viewform) with your opinion on whether SIGPLAN should go forward with this plan.
+SIGPLAN is currently considering making PACM PL--and thus OOPSLA--a (Gold) Open Access publication.  Please [weigh in](https://docs.google.com/forms/d/e/1FAIpQLScHHPd4yQoUTzz48ogVnRGL4AIUPPxXWgz4_c2nXwzGrisgyg/viewform) with your opinion on whether SIGPLAN should go forward with this plan, and how we should pay for it.
 
-Personally, I strongly support Gold Open Access, and I hope you will too!  I also believe that the right source to cover the costs of Open Access is the grant funding the research, or the company supporting the research.  In the (less common) case of research that does not have a current grant or corporate sponsor, the conference should step in so that authors do not have to pay the charge out of pocket.  The rest of this blog post provides a bit of background, and explains why I personally feel this is the right direction for SIGPLAN and for OOPSLA.
+Personally, I strongly support Gold Open Access, and I hope you will too!  I also believe that **the right source to cover the costs of Open Access is the grant funding the research, or the company supporting the research**.  In the (less common) case of research that does not have a current grant or corporate sponsor, the conference should step in so that authors do not have to pay the charge out of pocket.  The rest of this blog post provides a bit of background, and explains why I personally feel this is the right direction for SIGPLAN and for OOPSLA.
 
 Background: how did this question come up?
 ------------------------------------------
