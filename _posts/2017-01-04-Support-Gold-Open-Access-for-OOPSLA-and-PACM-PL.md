@@ -2,6 +2,7 @@
 title: Support Gold Open Access for OOPSLA and PACM PL!
 tags: community
 layout: default
+comments: true
 ---
 
 Support Gold Open Access for OOPSLA and PACM PL!
@@ -56,3 +57,26 @@ What if an author really has funding, but doesn't want to use it to pay the open
 An Open Future
 --------------
 I hope that you will support an author-pays, gold open access model for PACM PL/OOPSLA and other SIGPLAN conferences via the [survey](https://docs.google.com/forms/d/e/1FAIpQLScHHPd4yQoUTzz48ogVnRGL4AIUPPxXWgz4_c2nXwzGrisgyg/viewform).  I'd also personally love to hear your comments on this important issue, below!
+
+
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = "https://jonathanaldrich.github.io{{ page.url }}";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "{{ page.id }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//https-jonathanaldrich-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+{% endif %}
