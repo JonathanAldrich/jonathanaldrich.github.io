@@ -65,4 +65,4 @@ What if an author really has funding, but doesn't want to use it to pay the open
 
 An Open Future
 --------------
-I hope that you will support a funder-pays (implemented as author-pays with exceptions for unfunded authors), gold open access model for PACM PL/OOPSLA and other SIGPLAN conferences via the [survey](https://docs.google.com/forms/d/e/1FAIpQLScHHPd4yQoUTzz48ogVnRGL4AIUPPxXWgz4_c2nXwzGrisgyg/viewform).  I'd also personally love to hear your comments on this important issue, below!
+I hope you will consider supporting a funder-pays (implemented as author-pays with exceptions for unfunded authors), gold open access model for PACM PL/OOPSLA and other SIGPLAN conferences via the [survey](https://docs.google.com/forms/d/e/1FAIpQLScHHPd4yQoUTzz48ogVnRGL4AIUPPxXWgz4_c2nXwzGrisgyg/viewform).  I'd also personally love to hear your comments on this important issue, below!
