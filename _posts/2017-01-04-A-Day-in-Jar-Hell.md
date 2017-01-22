@@ -1,5 +1,5 @@
 ---
-title: Support Gold Open Access for OOPSLA and PACM PL!
+title: A Day in Jar Hell, and How Better Language Design, Specification, and Architecture Could Help
 tags: community
 layout: default
 comments: true

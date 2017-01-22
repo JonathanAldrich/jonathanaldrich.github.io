@@ -10,7 +10,7 @@ layout: default
 
 <ul>
   {% for post in site.posts %}
-   {% unless page.exclude_from_nav %}
+   {% unless page.exclude_from_nav == "true" %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
