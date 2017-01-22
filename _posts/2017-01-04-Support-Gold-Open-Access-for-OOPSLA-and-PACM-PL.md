@@ -3,7 +3,6 @@ title: Support Gold Open Access for OOPSLA and PACM PL!
 tags: community
 layout: default
 comments: true
-exclude_from_nav: false
 ---
 
 
