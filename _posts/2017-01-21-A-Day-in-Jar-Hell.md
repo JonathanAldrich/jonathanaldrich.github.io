@@ -138,8 +138,10 @@ graph.
 
 These requirements, perhaps most particularly the last one, begin to
 raise the level of abstraction from that typical of build systems to
-that of software architecture, in particular of module views:
+that of **software architecture**, in particular of module views:
 specifying constraints on the interactions between modules.
+
+#### An Integrated Approach
 
 I believe there are significant advantages to taking an integrated
 approach to the above questions.  The issues mentioned above are
@@ -156,8 +158,7 @@ really a combination of a module system design and an architectural
 description language, something that has not been done well before.
 
 
-Extensions to Component and Connector Views, and to Deployment Views
---------------------------------------------------------------------
+### Extensions to Component and Connector Views, and to Deployment Views
 
 Here I will speculate a bit more, but I believe there are also strong
 benefits to extending the integrated approach above to Component and
@@ -258,8 +259,7 @@ an approach that is better integrated with the other ideas in this
 train could be much more beneficial.
 
 
-Connections to other Plaid group research
------------------------------------------
+### Connections to other Plaid group research
 
 There are potential connections to other work in the group, as well:
 
@@ -292,8 +292,7 @@ concrete, as well as replacing inheritance approaches with something
 more flexible and more loosely-coupled.
 
 
-A Way Forward
--------------
+### A Way Forward
 
 The essay above is perhaps overly long, but maybe that is because it
 attempts to tie together not only a set of ideas that 5 of my current
