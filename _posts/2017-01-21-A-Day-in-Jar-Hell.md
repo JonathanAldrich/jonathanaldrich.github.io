@@ -79,10 +79,12 @@ with the release number in the pre-built jar.
 
 Some languages and VMs integrate dependency management, for example
 Ruby Gems and Node.js.  The .NET platform provides a notion of
-assembly that includes version numbers--this is not directly exposed
+[assembly](https://msdn.microsoft.com/en-us/library/k3677y81.aspx)
+that includes version numbers--this is not directly exposed
 in the module systems of the .NET languages, but they provide an
-annotation facility that allows version and other assembly information
-to appear in source code.
+[attribute annotation](https://msdn.microsoft.com/en-us/library/mt653979.aspx)
+facility that allows version and other assembly
+information to appear in source code.
 
 Even if you have all of the above,
 however, it's not enough.  One of the problems I faced was how to know
