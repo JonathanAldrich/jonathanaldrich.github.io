@@ -77,9 +77,14 @@ the pre-built jar was based on some version of the repository, I
 would be able to identify it because it that version would be tagged
 with the release number in the pre-built jar.
 
-I don't know of a practical language that does this last thing, but
-there are some languages and VMs that integrate dependency management,
-for example Ruby Gems and Node.js.  Even if you have all of the above,
+Some languages and VMs integrate dependency management, for example
+Ruby Gems and Node.js.  The .NET platform provides a notion of
+assembly that includes version numbers--this is not directly exposed
+in the module systems of the .NET languages, but they provide an
+annotation facility that allows version and other assembly information
+to appear in source code.
+
+Even if you have all of the above,
 however, it's not enough.  One of the problems I faced was how to know
 whether my patch was compatible with the interface of the library I
 was patching.  Java doesn't have a well-defined interface structure at
@@ -91,6 +96,8 @@ signature conformance, and replacing a library with another one that
 conforms to the same signature should be guaranteed not to produce
 link errors.  Documented relationships between library versions
 (e.g. backwards compatibility) should be enforced by the language.
+Arguably, something like [semantic versioning](http://semver.org/)
+should be enforced by the type system.
 
 Functional languages, most notably Standard ML, have been leaders in
 terms of providing expressive signatures for library modules.  However,
