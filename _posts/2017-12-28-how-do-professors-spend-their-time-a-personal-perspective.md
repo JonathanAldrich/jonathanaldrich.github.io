@@ -36,20 +36,20 @@ this down as follows:
 * 6% [Wyvern](https://github.com/wyvernlang/wyvern/wiki/Wyvern:-A-Language-for-Usable-Design-Driven-Assurance) (my "keystone" project if you will - this is time not spent specifically advising)
 * 2% Other (e.g. organization, non-advising/non-Wyvern research)
 
-The above is reasonably close to "time on task" - e.g. if I spend 15 minutes reading a NYT article about some politician's latest antics, I don't include that time in my records.  If I have lunch with a colleague, I leave 30 minutes blank (eating and socializing) and count the rest as "professional" time (catching up on research, etc.)  On the other hand, I don't use a stopwatch, but rather fill in 15-minute boxes on an online app, [Bubbletimer](http://bubbletimer.com/), based on what I am doing.
+The above is reasonably close to "time on task" - e.g. if I spend 15 minutes reading a news article about some crazy politician's antics, I don't include that time in my records.  If I have lunch with a colleague, I leave 30 minutes blank (eating and socializing) and count the rest as "professional" time (catching up on research, etc.)  On the other hand, I don't try for stopwatch-level precision; I fill in 15-minute boxes on an online app, [Bubbletimer](http://bubbletimer.com/), based on what I am doing.
 
 What do I personally conclude from this data?
 
 * I work hard, but it isn't crazy.  I have time for vacations and
 family, though sometimes not as much as I would like.
 Radhika comes across as a reasonably well-adjusted person in her article, and I'm close to where she is.
-Lots of people in industry work more.
+Lots of people in the software industry work more.
 
 * The teaching number is low.  This past year that is because I taught classes where it was possible to deliver a course in less time (seminar-like courses and courses I've taught before), but that won't be the case every year.  Thus, this percentage will likely be higher in other years.  Even beyond that, I'd like to spend more time teaching so as to provide a better learning experience to students, and also to invest in some longer-term projects such as converting my program analysis course notes into a textbook.
 
 * I think a lot of faculty (maybe especially at places like CMU?) spend even more than 15% of their time chasing funding, but my current allocation (which works out to over 7 hours/week) is too much for me.  The main reason is that I find many parts of raising money to be misery-inducing, and I need to reduce the time spent on it to maintain my sanity.  Of course, I have to raise some money if I want to advise students, which is one of my favorite activities.  I'm working on being more efficient with fundraising, choosing funding sources that trigger less misery, and moving gradually towards a modestly smaller research group in which I will invest more of my time per student (which I would like to do for other reasons anyway!)
 
-* The service numbers are perhaps a bit high, but not too far off.  This year, I organized the OOPSLA PC, which was a big community service task.  I probably won't run another top-tier PC for a few years, but I will still need to do my bit for the community in other ways.  Closer to home, I run the Software Engineering Ph.D. program at CMU, which is a relatively big local commitment.  Despite the workload, I'm quite happy to keep doing this, as I find it highly personally rewarding--more than average for service tasks, and again, of course, we all need to do our part.
+* The service numbers are perhaps a bit high, but not too far off.  This year, I organized the OOPSLA PC, which was a big community service task.  I probably won't run another top-tier PC for a few years, but I will still need to do my bit for the community in other ways.  Closer to home, I run the Software Engineering Ph.D. program at CMU, which is also a relatively large commitment.  Despite the workload, I'm quite happy to keep doing this, as I find it highly personally rewarding--more than average for service tasks, and again, of course, we all need to do our part.
 
 One of the lessons I've learned is to be strategic about my time,
 something I definitely wasn't doing when I first started as a
@@ -64,7 +64,7 @@ did early in my career (though I wasn't tracking my time then so it's
 hard to be sure) but I think I'm having at least as much impact as I
 did then, mostly because I'm working smarter.
 
-Overall, although it's not perfect, I'm reasonably happy with the way I'm spending my time, which is actually a bit better than it was the year before (I can dig up those numbers if anyone's interested).  What I'd really like to do is divide a nominal 40-hour workweek into about 35% research/advising, 25% teaching, 20% service, 10% professional growth, and 10% funding--then spend a few additional hours each week on "extra" personally rewarding projects (generally in the "Professional" and "Wyvern" categories above).  We'll see how the coming year goes! :)
+Overall, although it's not perfect, I'm reasonably happy with the way I'm spending my time, which is actually a bit better than it was the year before (I can dig up those numbers if anyone's interested).  What I'd really like to do is divide a nominal 40-hour workweek into about 35% research/advising, 25% teaching, 20% service, 10% professional growth, and 10% funding--then spend a few additional hours each week on "extra" personally rewarding projects (generally in the "Professional" and "Wyvern" categories above).  I'd also like to pack the hours I do spend more efficiently, to enable me to spend more time with my family.  We'll see how the coming year goes! :)
 
 Getting back to the original issue raised by our graduate student...careers take lots of different forms, and your mileage may vary, but I
 think academia has a lot going for it if you manage things the right
