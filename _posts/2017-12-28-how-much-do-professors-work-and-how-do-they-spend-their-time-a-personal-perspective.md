@@ -11,7 +11,7 @@ comments: true
 How Much Do Professors Work, and How Do They Spend Their Time? A Personal Perspective
 =====================================================================================
 
-Recently, I heard that among the Software Engineering Ph.D. students at CMU, there is an impression that 'The parameter "required effort to be above average in my profession" has annoyingly high values for tenure-track jobs. Committing to this level of effort for decades seems to be a major deterrent' for students going into academia.
+Recently, I heard that among the Software Engineering Ph.D. students at CMU, there is an impression that "The parameter 'required effort to be above average in my profession' has annoyingly high values for tenure-track jobs. Committing to this level of effort for decades seems to be a major deterrent" for students going into academia.
 
 This concern is justified in the sense that I think a lot of professors do put in a lot of hours.  But I don't think it's correct to conclude that this is
 either universal or necessary.  A particularly good article on this issue was written by Radhika Nagpal at Harvard:
@@ -36,14 +36,15 @@ this down as follows:
 * 6% [Wyvern](https://github.com/wyvernlang/wyvern/wiki/Wyvern:-A-Language-for-Usable-Design-Driven-Assurance) (my "keystone" project if you will - this is time not spent specifically advising)
 * 2% Other (e.g. organization, non-advising/non-Wyvern research)
 
+The above is reasonably close to "time on task" - e.g. if I spend 15 minutes reading a NYT article about some politician's latest antics, I don't include that time in my records.
+
 What do I personally conclude from this data?
 
 * I work hard, but it isn't crazy.  I have time for vacations and
 family, though sometimes not as much as I would like.  Radhika's
 article implies she targets around 50 hours/week for work weeks; she
 seems reasonably well-adjusted, and I'm close to that.  Lots of people
-in industry work more.  I might increase it a bit once my kids are out of
-the house, but only if it's too much fun to stay away! :)
+in industry work more.
 
 * The teaching number is low.  In part that is because I taught classes where it was possible to deliver a course in less time, but that won't be the case every year.  Thus, this percentage will likely be higher in other years.  I'd actually like to spend more time teaching so as to provide a better learning experience to students, and also to invest in some longer-term projects such as converting my program analysis course notes into a textbook.
 
