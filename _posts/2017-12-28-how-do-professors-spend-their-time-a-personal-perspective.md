@@ -40,8 +40,8 @@ The above is reasonably close to "time on task" - e.g. if I spend 15 minutes rea
 
 What do I personally conclude from this data?
 
-* I work hard, but it isn't crazy.  I have time for vacations and
-family, though sometimes not as much as I would like.
+* I work hard, but it isn't crazy.  I have time for vacations and family.
+I would like to work a bit less in the average week, but in weeks when it doesn't impinge on my personal life, I enjoy my job enough that I don't mind working a bit beyond the "standard" 40 hours.
 Radhika comes across as a reasonably well-adjusted person in her article, and I'm close to where she is.
 Lots of people in the software industry work more.
 
@@ -64,7 +64,7 @@ did early in my career (though I wasn't tracking my time then so it's
 hard to be sure) but I think I'm having at least as much impact as I
 did then, mostly because I'm working smarter.
 
-Overall, although it's not perfect, I'm reasonably happy with the way I'm spending my time, which is actually a bit better than it was the year before (I can dig up those numbers if anyone's interested).  What I'd really like to do is divide a nominal 40-hour workweek into about 35% research/advising, 25% teaching, 20% service, 10% professional growth, and 10% funding--then spend a few additional hours each week on "extra" personally rewarding projects (generally in the "Professional" and "Wyvern" categories above).  I'd also like to pack the hours I do spend more efficiently, to enable me to spend more time with my family.  We'll see how the coming year goes! :)
+Overall, although it's not perfect, I'm reasonably happy with the way I'm spending my time, which is actually a bit better than it was the year before (I can dig up those numbers if anyone's interested).  What I'd really like to do is divide a nominal 40-hour workweek into about 35% research/advising, 25% teaching, 20% service, 10% professional growth, and 10% funding--then in weeks where it's convenient, spend a few additional hours each week on "extra" personally rewarding projects (generally in the "Professional" and "Wyvern" categories above).  I'd also like to pack the hours I do spend more efficiently, to enable me to spend more time with my family.  Of course it's hard to truly optimize given all the constraints in a busy career.  We'll see how the coming year goes! :)
 
 Getting back to the original issue raised by our graduate student...careers take lots of different forms, and your mileage may vary, but I
 think academia has a lot going for it if you manage things the right
@@ -72,3 +72,5 @@ way.  I haven't completely nailed the "right way" for me, but I think I'm gettin
 The two best things about my job are working with
 students and getting to work on the problems I find most interesting.
 To get to do that and still have a reasonably scoped job is pretty cool!
+
+*Edited slightly 12/29, mostly to reflect that although I am relatively happy with my workload, I'd probably work a bit less in an ideal world.  So still some things to manage better!*
