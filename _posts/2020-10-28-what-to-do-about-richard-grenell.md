@@ -33,8 +33,6 @@ More broadly, Grenell's tweet clearly demonstrates that his behavior has not cha
 
 More recently, Grenell has been photographed [multiple](https://twitter.com/RichardGrenell/status/1316182046784589824) [times](https://www.dailymail.co.uk/femail/article-8873757/Playful-video-shows-Tiffany-Trump-dancing-Richard-Grenell-campaign-fundraiser.html) recently indoors without a mask, which is in conspicuous violation of CMU's COVID-related safety policies.  CMU's provost sent an [email to the community](https://www.cmu.edu/coronavirus/news-and-communications/communications-archive/2020/october/important-notice-covid-19.html) recently about a different instructor whose campus privileges have been revoked for the remainder of the 2020-2021 academic year for violating one or more CMU COVID-19 safety protocols.  **Have Richard Grenell's campus privileges been likewise revoked for the remainder of the academic year, due to his egregious COVID policy violations?**
 
-Finally, students are reporting that he has retaliated against them for speaking out about his hire and behavior.  Given that Grenell is in a position of authority at CMU in general and IPS in particular, this appears to be a violation of CMU's Freedom of Expression policy.  **Has Grenell been warned or disciplined for attacking the Freedom of Expression of CMU students?**
-
 
 How Future Appointments should be Reviewed
 ------------------------------------------
