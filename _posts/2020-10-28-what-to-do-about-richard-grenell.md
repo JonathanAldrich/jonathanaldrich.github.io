@@ -37,7 +37,7 @@ More recently, Grenell has been photographed [multiple](https://twitter.com/Rich
 How Future Appointments should be Reviewed
 ------------------------------------------
 
-In my view, the short record above clearly shows that we should not have hired Richard Grenell--and the student, faculty, and staff protest letters preceeding his hire make clear that this issue was utterly predictable.  How can we avoid making similar hiring mistakes in the future?
+In my view, the short record above clearly shows that we should not have hired Richard Grenell--and the student, faculty, and staff protest letters preceding his start date make clear that this issue was utterly predictable.  How can we avoid making similar hiring mistakes in the future?
 
 Grenell's hire vividly illustrates that CMU's policy of giving department heads discretion to hire high profile visiting faculty and staff is fundamentally flawed.  One person can make the decision to hire, with no checks and balances--despite the fact that the hired person can contribute to a hostile environment for racial minorities.  The hired person can also risk campus safety.  **Checks and balances are needed.**
 
