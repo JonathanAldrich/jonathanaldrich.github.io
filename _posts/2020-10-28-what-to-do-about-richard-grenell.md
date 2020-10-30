@@ -9,7 +9,9 @@ comments: true
 What to do about Richard Grenell?  Confronting Racism in our Midst
 ==================================================================
 
-A few months ago, [Richard Grenell was hired as a Senior Fellow](https://www.cmu.edu/news/stories/archives/2020/june/grenell-named-ips-fellow.html) at Carnegie Mellon, the university where I teach.  Since then, he has been behaving as badly as many [students](https://actionnetwork.org/petitions/rescind-richard-grenells-senior-fellow-position/), [faculty, and staff](https://docs.google.com/document/d/1KJWLAWdS3-Jdg6HlhAXcfo3zJlzmiYzeSLaaE0dgkfY/edit) feared.  What should Carnegie Mellon do about Richard Grenell?  And what can we learn from this experience so that this does not happen again?
+I love CMU, and I believe our heart as an institution is in the right place.  But sometimes, we don't do the right thing, because our processes are broken.  
+One example of this is how a few months ago, [Richard Grenell was hired as a Senior Fellow](https://www.cmu.edu/news/stories/archives/2020/june/grenell-named-ips-fellow.html) at Carnegie Mellon, the university where I teach.  Since then, he has been behaving as badly as many [students](https://actionnetwork.org/petitions/rescind-richard-grenells-senior-fellow-position/), [faculty, and staff](https://docs.google.com/document/d/1KJWLAWdS3-Jdg6HlhAXcfo3zJlzmiYzeSLaaE0dgkfY/edit) feared.  I ask, as someone who cares deeply about making CMU a more diverse and inclusive university: What should Carnegie Mellon do about Richard Grenell?  And how can we learn from this experience so that this does not happen again?
+
 
 Background and Context
 ----------------------
