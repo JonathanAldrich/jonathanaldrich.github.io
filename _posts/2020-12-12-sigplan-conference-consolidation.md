@@ -44,12 +44,22 @@ Proposal: A SIGPLAN Conference
 
 I propose that we create one international SIGPLAN conference, meeting in-person annually, with remote participation options provided as best we can.  SIGPLAN would replace ICFP, OOPSLA, PLDI, and POPL, and it would host a wide variety of specialized workshops.  The first one could be held in June/July 2022 (benefiting from summer academic break in the northern hemisphere, while avoiding August holidays) by which time we can hope COVID would be well under control.  All other SIGPLAN-sponsored conferences would be held virtually, perhaps with narrow exceptions for highly local conferences.  SIGPLAN papers would be published in PACMPL, as ICFP/OOPSLA/POPL papers are today.  The PC would have subcommittees covering communities represented across SIGPLAN, as way of retaining diversity in the field; we would look to CHI for organizational inspiration.  SIGPLAN would accept submissions throughout the year, with a late fall deadline for papers expected to be presented in any given year's conference.  TOPLAS to SIGPLAN would be one option for submission throughout the year, but having a standing committee would be a valuable addition to consider.  The new conference would target publishing at least as many papers annually as the four major SIGPLAN conferences currently do when combined, and maintaining an acceptance rate that remains selective yet, for inclusivity, is at or above the average of those four conferences.
 
-Alternatives
-------------
+Alternatives and Variations
+---------------------------
 
-What are the major alternatives?  We could make all conferences virtual; that would solve the climate problem, but I don't believe our community is ready to give up in-person, international events.  The most likely alternative is the status quo, but that is almost certainly worse for the climate than my proposal, and it ignores the problems of consolidation squeezing out the diversity of work in our field.  A SIGPLAN multiconference without the reviewing reforms above would make the consolidation/loss of area homes and submission timing problems worse.
+What are the major alternatives and variations?
+
+ * The status quo is the most likely alternative, but that is almost certainly worse for the climate than this proposal, and it ignores the problems of consolidation squeezing out the diversity of work in our field.  I think we can do better.
+ 
+ * We could make all conferences virtual; that would best address the climate problem, but I don't believe our community is ready to give up in-person, international events.
+ 
+ * A SIGPLAN multiconference without the reviewing reforms above would make the consolidation/loss of area homes and submission timing problems worse.  The existing conferences could accept papers year-round and then present them all at once, solving the timing problem...but that would result in a duplication of effort where the conferences overlap, and we would be losing the opportunity to do *better* on diversity of papers by having more sub-area committees with a more logical structure than the current 4 conferences.
+ 
+ * The proposal above could be implemented without in-person paper talks--the talks could be given virtually--but instead feature a variety of workshops (some of which might invite authors of recent papers to present).  This is a reasonable variation to consider.  It is arguably less egalitarian, in that not everyone who publishes a paper gets a speaking slot, but only those whose work overlaps with a workshop.  Hybrids are possible: perhaps most papers could be presented in topical workshops, with a "miscellaneous papers" track for the papers that don't fall into a workshop area.
 
 Let's Work Together
 -------------------
 
 Please consider the problems outlined above.  If you are convinced, upon reflection, that they are real, consider this proposal as a solution that, while undoubtedly imperfect, could improve on the status quo in multiple dimensions.  If you'd like to work together on fleshing out this proposal and making it happen, let me know, and I'll convene a group to work on it.
+
+*My thanks to colleagues who provided feedback on earlier versions of this post.*
