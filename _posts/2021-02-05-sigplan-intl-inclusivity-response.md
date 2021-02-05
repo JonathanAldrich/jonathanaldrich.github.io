@@ -1,5 +1,5 @@
 ---
-title: On International Inclusion at Virtual Conferences: A Response to SIGPLAN
+title: On International Inclusion at Virtual Conferences - A Response to SIGPLAN
 tags:
    conferences inclusion
 layout: default
