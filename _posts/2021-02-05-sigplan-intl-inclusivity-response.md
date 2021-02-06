@@ -33,7 +33,7 @@ response to it because each sets an important precedent.
 
 The SIGPLAN response is threefold, arguing that: the committee
 are well-intentioned, the committee have made other positive innovations,
-and that the synchronous schedule is insignificant.   You don’t acknowledge
+and that the synchronous schedule is insignificant.   The response doesn't acknowledge
 that an inherently exclusive synchronous program is at odds with SIGPLAN’s
 stated goals of inclusivity.
 
