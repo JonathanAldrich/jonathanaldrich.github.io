@@ -25,21 +25,21 @@ How would it work?  Speakers will be able to present in-person or virtually in t
 
 ![virtual participation]({{ site.url }}/assets/virtual-participation.png)
 
-What about people in far-off time zones?  We plan to mirror the SPLASH program by 8 hours.  If SPLASH runs 9am-5pm in Chicago, with 4 sessions, we will mirror the last session 7:30am-9am Chicago time, and the others 5pm-11:30pm Chicago time.  What this means is that authors physically present in Chicago can participate in the mirrored session for live Q&A, without staying up all night.
-
-![8-hour mirroring]({{ site.url }}/assets/8-hour-mirroring.png)
-
-It also means that every session will be available during non-sleeping hours, either live or mirrored, to everyone in the world.  SPLASH will be blacked out (no talks or synchronous events held) from approximately 11:30pm-7:30am Chicago time, enabling local attendees (especially authors) to get their sleep.
-
-![remote attendance]({{ site.url }}/assets/remote-attendance.png)
-
 We will use tools like Slack to facilitate asynchronous discussions of papers and other technical topics at any time.  And recorded talks will be available for asynchronous viewing as well.
 
 We plan to facilitate people who want to organize local 'watch parties' where folks in a geographical area travel to local meetups and watch and discuss SPLASH topics synchronously in their time zone.
 
+What about people in far-off time zones?  We plan to mirror the SPLASH program by 8 hours.  If SPLASH runs 9am-5pm in Chicago, with 4 sessions, we will mirror the last session 7:30am-9am Chicago time, and the others 5pm-11:30pm Chicago time (see illustration below).  What this means is that authors physically present in Chicago can participate in the mirrored session for live Q&A.  SPLASH will be blacked out (no talks or synchronous events held) from approximately 11:30pm-7:30am Chicago time, enabling local attendees (especially authors) to get their sleep.
+
+![8-hour mirroring]({{ site.url }}/assets/8-hour-mirroring.png)
+
+This scheme means that every session will be available during non-sleeping hours, either live or mirrored, to everyone in the world.  For example, the figure below shows how the local time in various parts of the world lines up with the conference schedule, and the time(s) that someone from there might choose to participate.
+
+![remote attendance]({{ site.url }}/assets/remote-attendance.png)
+
 This plan is not final--we want your input.  Contact any of the hybridization committee members: Steve Blackburn, Youyou Cong, Alex Potanin, Talia Ringer, and myself.
 
-And it's subject to final approval of the SPLASH SC--we want to do this, but we need to make sure finances, hotel arrangements, safety etc. all check out.  Never fear, in the (unlikely, we think) event that hybrid doesn't work out, there will be a virtual option regardless.
+All of this is subject to final approval of the SPLASH SC--we want to do this, but we need to make sure finances, hotel arrangements, safety etc. all check out.  Never fear, in the (unlikely, we think) event that hybrid doesn't work out, there will be a virtual option regardless.
 
 We hope Hybrid SPLASH 2021 will be a great experience for both physical and virtual attendees--and a chance to try a new and promising model that may be the future of conferences in our field!
 
