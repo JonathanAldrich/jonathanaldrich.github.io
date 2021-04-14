@@ -11,7 +11,7 @@ Preliminary Plans for a Hybrid SPLASH 2021
 
 Exciting news--we are working on an approach that we hope will make [SPLASH](https://2021.splashcon.org/) / [OOPSLA 2021](https://2021.splashcon.org/track/splash-2021-oopsla) the first major hybrid (physical/virtual) conference in PL!
 
-SIGPLAN's recent poll shows that lots of people really want to get back to in-person conferences.  By this October, many countries in the world (including the US, where SPLASH is held in Chicago) will be fully vaccinated, so we expect gathering will be safe.  In-person networking opportunities are also important for our emerging researchers, some of whom recently penned a great [blog post](https://blog.sigplan.org/2021/03/25/conferences-after-covid-an-early-career-perspective/) suggesting a hybrid approach:
+SIGPLAN's recent poll shows that lots of people really want to get back to in-person conferences.  By this October, many countries in the world (including the US, where SPLASH is held in Chicago) will be fully vaccinated, so we expect gathering will be safe.  In-person networking opportunities are also important for our emerging researchers, some of whom recently penned a great [blog post](https://blog.sigplan.org/2021/03/25/conferences-after-covid-an-early-career-perspective/) suggesting a hybrid approach.
 
 But we need to support a virtual option too.  Some people, some countries, will not be vaccinated yet--and the vaccine doesn't work well for everyone.  And in *any* year there are those who cannot travel for financial or other reasons.  Thus many more attended SPLASH when it was virtual in 2020, including new community members.
 
