@@ -19,9 +19,19 @@ SPLASH 2021 is a chance to try a new, hybrid, approach that can accommodate both
 
 Our design goals include Do No Harm--making SPLASH comparable to a physical-only conference for physical attendees, and comparable to an online-only conference for virtual attendees--as well as Expanding Access to the conference and Experimenting with new conference modalities.
 
+![physical participation]({{ site.url }}/assets/physical-participation.png)
+
 How would it work?  Speakers will be able to present in-person or virtually in the Chicago time zone.  We will use tools like Slido to synchronously take questions from in-person and virtual attendees.  We'll explore virtual presence mechanisms to blend virtual and hybrid spaces in talks and in rooms used for social meetings, technical discussions, and mentoring.
 
-What about people in far-off time zones?  We plan to mirror the SPLASH program by 8 hours.  If SPLASH runs 9am-5pm in Chicago, with 4 sessions, we will mirror the last session 7:30am-9am Chicago time, and the others 5pm-11:30pm Chicago time.  What this means is that authors physically present in Chicago can participate in the mirrored session for live Q&A, without staying up all night.  It also means that every session will be available during non-sleeping hours, either live or mirrored, to everyone in the world.  SPLASH will be blacked out (no talks or synchronous events held) from approximately 11:30pm-7:30am Chicago time, enabling local attendees (especially authors) to get their sleep.
+![virtual participation]({{ site.url }}/assets/virtual-participation.png)
+
+What about people in far-off time zones?  We plan to mirror the SPLASH program by 8 hours.  If SPLASH runs 9am-5pm in Chicago, with 4 sessions, we will mirror the last session 7:30am-9am Chicago time, and the others 5pm-11:30pm Chicago time.  What this means is that authors physically present in Chicago can participate in the mirrored session for live Q&A, without staying up all night.
+
+![8-hour mirroring]({{ site.url }}/assets/8-hour-mirroring.png)
+
+It also means that every session will be available during non-sleeping hours, either live or mirrored, to everyone in the world.  SPLASH will be blacked out (no talks or synchronous events held) from approximately 11:30pm-7:30am Chicago time, enabling local attendees (especially authors) to get their sleep.
+
+![remote attendance]({{ site.url }}/assets/remote-attendance.png)
 
 We will use tools like Slack to facilitate asynchronous discussions of papers and other technical topics at any time.  And recorded talks will be available for asynchronous viewing as well.
 
