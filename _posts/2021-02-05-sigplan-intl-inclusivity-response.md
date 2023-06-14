@@ -78,6 +78,8 @@ ourselves’ with respect to inclusion and to make a ‘better place’.
 This is disheartening, to say the least.
 
 Steve Blackburn
+
 Jonathan Aldrich
+
 Alex Potanin
 
